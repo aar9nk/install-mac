@@ -3,7 +3,7 @@ A setup guide for the Mac users of the course
 
 ## Recordings
 
-## When you have finished all steps from the video:
+## Setting up the VSCode terminal:
 1. Open Visual Studio Code (cmd+space and type visual studio code, hit enter)
 2. In Visual Studio Code, press `cmd + shift + p` (Hold cmd, hold shift, tap p). 
 3. Type "shell install" and press enter
