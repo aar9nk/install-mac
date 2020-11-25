@@ -3,6 +3,10 @@ A setup guide for the Mac users of the course
 
 ## Recordings
 
+[Install Chrome, VSCode, and PostMan](https://drive.google.com/file/d/1fskr6uMaOHfk3FKTuXdOgFmGjKHjzvwe/view?usp=sharing)
+
+[Install Homebrew, Git, and Node](https://drive.google.com/file/d/19R0d1gHk3XHJZzlX0HtTnur9HlG5UhF9/view?usp=sharing)
+
 ## Setting up the VSCode terminal:
 1. Open Visual Studio Code (cmd+space and type visual studio code, hit enter)
 2. In Visual Studio Code, press `cmd + shift + p` (Hold cmd, hold shift, tap p). 
