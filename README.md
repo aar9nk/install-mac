@@ -15,7 +15,7 @@ A setup guide for the Mac users of the course
  
 ## Links and References
 1. https://www.google.com.au/chrome
-2. `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)”`
+2. `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
 3. `brew install git`
 4. `brew install node`
 5. `npm i -g n`
